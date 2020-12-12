@@ -1,0 +1,19 @@
+* {
+  background-color: antiquewhite;
+  font-family: "Oswald", sans-serif;
+  text-align: center;
+}
+li {
+  list-style: none;
+}
+li a {
+  text-decoration: none;
+  color: black;
+}
+h1 {
+  background-color: rgb(170, 161, 149);
+}
+footer {
+  bottom: 0;
+  position: absolute;
+}
